@@ -1,5 +1,5 @@
 # crafts
 Various things handmade using 3d printer or laser cutter
 
-# Lamp
+## [Lamp](./lamp)
 Wood suspension for our dinner room
