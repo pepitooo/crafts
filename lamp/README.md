@@ -5,8 +5,8 @@
 
 This lamp is made using :
 
-*  1 time plywood 410x870mm 4mm for structure
-*  2 times plywood 250x870mm 5mm or 6mm for the bars
+*  1 time plywood 410x860mm 4mm for structure
+*  2 times plywood 210x860mm 5mm or 6mm for the bars
 *  2 ikea [SEKOND](http://www.ikea.com/ch/fr/catalog/products/50279373/) for bulb support
 
 ## How do it ?
