@@ -1,4 +1,5 @@
 # Lamp
+![Screenshot of OnShape](./export/images/onshape.png)
 ![Export of the CAD file](./export/images/lamp.png)
 
 ## What do you need to do it ?
