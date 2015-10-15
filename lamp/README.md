@@ -17,3 +17,8 @@ It will be laser cut in Zurich fablab
 The export folder contains all necessary file for laser cutter used in this fablab, I hope it will be compatible with the one you will use.
 
 Use some wood glue to stick all bars to the structure
+
+## In real life ?
+
+![Photo 1](./photo/photo_1.jpeg)
+![Photo 2](./photo/photo_2.jpeg)
