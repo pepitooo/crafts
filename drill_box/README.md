@@ -1,21 +1,21 @@
 # 3D objects with a laser cutter
 
-In this example I will do an holder for drill bits
-I Bought in china some cheap drill bits, but it came with out any case.
+In this example I will do an holder for drill bits.
+I Bought in china some cheap drill bits, but it came without any case.
 My goal will be to do a basic holder for drill bits to be easy accessible and well organized on my workbench.
 
 ## What do you need ?
 
 1. laser cutter
 2. material
-3. onshape account
-4. Kiri:Moto plugin
-5. qcad
+3. [onshape](https://www.onshape.com/) account
+4. [Kiri:Moto](https://grid.space/kiri) plugin
+5. [qcad](http://www.qcad.org/)
 6. time
 
 ## First designing our 3D object
 
-I suggest you to follow an onshape tutorial if you don't know how to do it. It's quite simple and easy to use.
+I suggest you to follow an [onshape tutorial](https://www.onshape.com/videos/topic/tutorials) if you don't know how to do it. It's quite simple and easy to use.
 
 ### 2D Sketch
 
