@@ -34,6 +34,7 @@ As my material is 3mm, I used a multiplier of 3, here 5*3, you can use arithmeti
 ## Slicing with Kiri:Moto
 
 ### Opening plugin Kiri:Moto
+If you don't have it, you can find it in the App Store of onshape, it's free.
 ![image](./photo/open-kiri-moto.png)
 
 ### Import your part
@@ -70,10 +71,10 @@ Choose the right setting to cut your material and cut it.
 ![image](./photo/laser-cutted.jpeg)
 
 ### Assembly
-To be a real 3D objects you have to glue each part together, and let it dry.
+To be a real 3D object you have to glue each parts together, and let it dry.
 
 ![image](./photo/assembled.jpeg)
 
 ## What you can do more with this method ?
-I did this. All the plastic case was before I organized every thing with it. I don't tell you the nightmare to look the the right bit and the right collet.
+I did this. All the plastic case was before I organized every thing with it. I don't tell you the nightmare to look for the the right bit and the right collet.
 ![image](./photo/what-i-did.jpeg)
